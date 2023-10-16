@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shouryx0301
+- 👀 I’m interested in HTML, CSS, Javascript, Python, Java, etc.
+- 🌱 I’m currently learning Bootstrap and Java
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 You can contact me via email at shourya.mundhada03@gmail.com
